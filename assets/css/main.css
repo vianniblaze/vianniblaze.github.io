@@ -2011,8 +2011,10 @@ input, select, textarea {
 			}
 
 			.icon.featured:hover{
-				transform: scale(1.2);
-				transition: .2s;
+				/*transform: scale(1.2);*/
+				transform: rotateY(180deg);
+				transition: 0.5s;
+				
 			}
 
 /* Wrappers */
