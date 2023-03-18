@@ -1921,7 +1921,8 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #ffa630;
+		/*background: #ffa630;*/
+		background: #ffba2e;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		text-align: center;
 		padding: 2em;
@@ -2028,16 +2029,19 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #003297;
+			/*background-color: #003297;*/
+			background-color: #29316b;
 		}
 
 		.wrapper.style2 {
-			background-color: #ffa630;
+			/*background-color: #ffa630;*/
+			background-color: #ffb347;
 			text-shadow: 1px 1px 0px #00094B;
 		}
 
 		.wrapper.style3 {
-			background-color: #003297;
+			/*background-color: #003297;*/
+			background-color: #29316b;
 			text-shadow: 1px 1px 0px #00094B;
 		}
 
