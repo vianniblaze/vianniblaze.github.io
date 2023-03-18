@@ -1649,11 +1649,6 @@ input, select, textarea {
 			margin: 0 0 2em 0;
 		}
 		
-		/*.image.featured:hover{
-			transition: 0.5s;
-			filter: blur(4px);
-			
-		}*/
 		
 		.image.left {
 			float: left;
@@ -2006,7 +2001,6 @@ input, select, textarea {
 
 		.icon.featured {
 			color: #003297;
-			/*color: #224997;*/
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
@@ -2034,13 +2028,11 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			/*background-color: #003297;*/
-			background-color: #224997;
+			background-color: #003297;
 		}
 
 		.wrapper.style2 {
-			background-color: #ffaf47;
-			
+			background-color: #ffa630;
 			text-shadow: 1px 1px 0px #00094B;
 		}
 
