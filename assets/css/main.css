@@ -1650,9 +1650,13 @@ input, select, textarea {
 		}
 
 		.image.featured:hover{
-			filter:blur(4px);
+			filter: blur(2px);
 		}
-		
+
+		.image.featured:hover ~ #mhw{
+			opacity: 0;
+		}
+
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
@@ -2490,7 +2494,11 @@ input, select, textarea {
 			opacity: 0;
 		}*/
 
-		.popup {
+		w#mh {
+			opacity: 0;
+		}
+
+		.col-4.col-6-medium.col-12-small .box.style2 #mhw{
 			opacity: 0;
 		}
 
