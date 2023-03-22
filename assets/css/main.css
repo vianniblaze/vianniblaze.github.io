@@ -115,7 +115,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #003297 !important;
+			color: #343f71 !important;
 			
 		}
 
@@ -175,7 +175,7 @@ input, select, textarea {
 		}
 
 		h1 strong:hover{
-			color: #ffa630;
+			color: #e9d8e4;
 			transition: .3s;
 		}
 
@@ -1687,7 +1687,7 @@ input, select, textarea {
 		/*-webkit-appearance: none;*/
 		position: relative;
 		display: inline-block;
-		color: #ffa630 !important;
+		color: #e9d8e4 !important;
 		text-decoration: none;
 		font-weight: 700;
 		border: 0;
@@ -1925,8 +1925,9 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #ffa630;
+		/* latest background: #ffa630;*/
 		/*background: #ffba2e;*/
+		background: #fbc40e;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		text-align: center;
 		padding: 2em;
@@ -2006,7 +2007,8 @@ input, select, textarea {
 		}
 
 		.icon.featured {
-			color: #003297;
+			/* latest color: #003297;*/
+			color: #343f71;
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
@@ -2034,20 +2036,25 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #003297;
+			/* latest background-color: #003297;*/
+			background-color: #343f71;
 			/*background-color: #29316b;*/
 		}
 
 		.wrapper.style2 {
-			background-color: #ffa630;
+			/*background-color: #ffa630; pre-swap*/
 			/*background-color: #ffb347;*/
+			/* latest background-color: #003297; */
+			background-color: #343f71;
 			font-weight: 600;
 			/*text-shadow: 1px 1px 0px #00094B;*/
 		}
 
 		.wrapper.style3 {
-			background-color: #003297;
+			/*background-color: #003297; pre-swap*/
 			/*background-color: #29316b;*/
+			/* latest background-color: #ffa630; */
+			background-color: #fbc40e;
 			font-weight: 550;
 			/*text-shadow: 1px 1px 0px #00094B;*/
 		}
@@ -2122,7 +2129,7 @@ input, select, textarea {
 		}
 
 			#nav a:hover {
-				color: #ffa630 !important;
+				color: #f34c19 !important;
 				background: #0C0C0C;
 			}
 
@@ -2461,6 +2468,7 @@ input, select, textarea {
 
 				#top p {
 					font-size: 1em;
+					
 				}
 
 			#contact footer {
